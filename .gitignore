@@ -1,0 +1,5 @@
+laravel-site-copier
+node_modules
+venv
+__pycache__
+templates
